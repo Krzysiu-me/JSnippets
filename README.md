@@ -30,6 +30,10 @@ This repository contains beginner-friendly JavaScript projects and examples conv
 
 Created by [Krzysiu-me](https://github.com/Krzysiu-me)
 
+
+If you find it helpful, leave a star ⭐ or fork the project!*
+
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
